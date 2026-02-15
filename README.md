@@ -57,6 +57,25 @@ I built SubScrub to handle the dirty work. It's a simple tool that dives into yo
 2. Drop them in a folder and run the `.bat` file.
 3. (The batch file is just a shortcut that gets around those annoying Windows "script blocked" errors).
 
+#### Option 2: Running PowerShell Directly
+1. Download `SubScrub-v1.1.ps1` to a folder.
+2. Right-click the Start menu and select **Windows PowerShell (Admin)** or **Terminal (Admin)**.
+3. Navigate to the folder where you saved the script:
+```powershell
+   cd "C:\Path\To\Your\Folder"
+```
+4. Run the script with execution policy bypass:
+```powershell
+   powershell.exe -ExecutionPolicy Bypass -File .\SubScrub-v1.1.ps1
+```
+
+**OR** if you want to change your execution policy permanently (not recommended unless you know what you're doing):
+```powershell
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+.\SubScrub-v1.1.ps1
+```
+
+
 ## 📝 A few quick tips
 
 * **Mapped Drives:** Works great with `Z:\` or other network drives. Just type the path when it asks.
