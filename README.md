@@ -25,8 +25,8 @@ If you run a Plex, Jellyfin, or Emby server, you know the struggle. Your movie f
 
 I built SubScrub to handle the dirty work. It's a simple tool that dives into your library, keeps the languages you actually want, and moves the rest into a backup folder so your main folders stay clean. 🧹
 
-# IMPORTANT
-**⚠️ USE AT YOUR OWN RISK ⚠️**
+># IMPORTANT
+>**⚠️ USE AT YOUR OWN RISK ⚠️**
 > 
 > SubScrub moves files within your file system. While it is designed with multiple safety layers, the author is not responsible for any data loss or misplaced files.
 > 
