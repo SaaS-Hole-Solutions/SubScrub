@@ -1,5 +1,4 @@
 <div align="center">
-![SubScrub Icon](assets/subscrub.png)
 
 # SubScrub ✨
 
