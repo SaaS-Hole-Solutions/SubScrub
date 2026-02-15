@@ -10,7 +10,7 @@
   ___) | |_| | |_) |___) | (__| |  | |_| | |_) |
  |____/ \__,_|_.__/|____/ \___|_|   \__,_|_.__/ 
 
-    Subtitle Management Utility v1.1
+    Subtitle Management Utility v1.0
 ```
 
 *Made by SaaS-Hole-Solutions*
@@ -43,7 +43,7 @@ I built SubScrub to handle the dirty work. It's a simple tool that dives into yo
 
 ### The "I Like Code" Way (PowerShell) 💻
 
-1. Download the `SubScrub-v1.1.ps1` and `SubScrub.bat` files.
+1. Download the `SubScrub-v1.0.ps1` and `SubScrub.bat` files.
 2. Drop them in a folder and run the `.bat` file.
 3. (The batch file is just a shortcut that gets around those annoying Windows "script blocked" errors).
 
