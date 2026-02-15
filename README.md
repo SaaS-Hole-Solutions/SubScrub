@@ -33,20 +33,17 @@ I built SubScrub to handle the dirty work. It's a simple tool that dives into yo
 * **Cleans up the trash:** After moving files, it hunts down those annoying empty folders left behind and poofs them. ✨
 * **Safety First:** There's a Dry Run mode. Use it to see exactly what would happen before actually moving a single byte. 🚦
 
-*** IMPORTANT: USE AT YOUR OWN RISK ***
+[!IMPORTANT]
 
-SubScrub moves files within your file system. While it is
-designed with multiple safety layers, the author is not
-responsible for any data loss or misplaced files.
+*** USE AT YOUR OWN RISK ***
+
+SubScrub moves files within your file system. While it is designed with multiple safety layers, the author is not responsible for any data loss or misplaced files.
 
 BACKUP RECOMMENDATIONS:
 
-ALWAYS perform a "DRY RUN" (Option 4 in the script)
-before committing to a live run.
+ALWAYS perform a "DRY RUN" (Option 4 in the script) before committing to a live run.
 
-If you are processing a massive library for the first
-time, consider cloning your subtitle directory to a
-separate drive first.
+If you are processing a massive library for the first time, consider cloning your subtitle directory to a separate drive first.
 
 Keep your media server's metadata backup current.
 
