@@ -10,7 +10,7 @@
   ___) | |_| | |_) |___) | (__| |  | |_| | |_) |
  |____/ \__,_|_.__/|____/ \___|_|   \__,_|_.__/ 
 
-    Subtitle Management Utility v1.0
+    Subtitle Management Utility v1.1
 ```
 
 *Made by SaaS-Hole-Solutions*
@@ -44,7 +44,7 @@ Perfect for **Plex**, **Jellyfin**, **Emby**, or any media server!
 ### Option 1: Simple (Double-Click)
 1. Download the latest release
 2. Extract the ZIP file
-3. Double-click `SubScrub.exe`
+3. Double-click `SubScrub-v1.1`
 4. Answer the prompts
 5. Choose **Dry Run** for your first time
 
@@ -72,13 +72,13 @@ SubScrub.bat ger
 ### Download Options
 
 **Beginner-Friendly (Recommended):**
-- Download `SubScrub.exe` from [Releases](https://github.com/SaaS-Hole-Solutions/SubScrub/releases)
+- Download `SubScrub-v1.1` from [Releases](https://github.com/SaaS-Hole-Solutions/SubScrub/releases)
 - No installation required - just run it!
 
 **Power Users:**
 - Clone this repository
-- Run `SubScrub.ps1` directly with PowerShell
-- Or use `SubScrub.bat` for easy launching
+- Run `SubScrub-v1.1` directly with PowerShell
+- Or use `SubScrub-v1.1` for easy launching
 
 ### Requirements
 - Windows 7/8/10/11
