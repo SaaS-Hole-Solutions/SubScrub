@@ -1,7 +1,5 @@
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                       SUB SCRUB - USER INSTRUCTIONS                       ║
-║                Intelligent Subtitle & CC Management Utility               ║
-╚═══════════════════════════════════════════════════════════════════════════╝
+SUB SCRUB - USER INSTRUCTIONS
+Intelligent Subtitle & CC Management Utility
 
 Depending on how you like to work, there are three ways to get SubScrub 
 running on your machine.
@@ -84,3 +82,4 @@ the interactive setup.
 
 Questions? Issues? Open a ticket on GitHub!
 Made by SaaS-Hole-Solutions
+
