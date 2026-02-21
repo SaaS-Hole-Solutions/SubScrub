@@ -62,7 +62,7 @@ SubScrub.bat ger
 
 ```powershell
 # PowerShell
-.\SubScrub.ps1 -Language spa
+.\SubScrub-v1.1.ps1 -Language spa
 ```
 
 ---
